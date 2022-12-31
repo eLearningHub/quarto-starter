@@ -15,3 +15,7 @@
   ```
   https://GITHUB_USERNAME.github.io/REPO_NAME/
   ```
+- Copy the address and click on the name of the repository
+- Click on the gear icon to the right of About on the right column
+- Paste the address under Website
+- Now, you can update "index.qmd" and the Website (GitHub Page) will be updated automatically

@@ -1,1 +1,5 @@
-# Starter template for Quarto using the Jupyter engine
+# Starter template for Quarto
+
+## Getting started
+
+- Use this template to create your own repository
